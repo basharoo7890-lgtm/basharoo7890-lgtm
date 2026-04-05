@@ -1,4 +1,4 @@
-<h1 align="left" id="macropower-title"> 🇯🇴 Hi Folks! I'm Bashar Mukaddam</h1>
+<h1 align="left" id="macropower-title">   Hi I'm Bashar Mukaddam</h1>
 <p align="left">
   <a href="https://www.linkedin.com/in/bashar-mukaddam/">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
@@ -40,20 +40,6 @@ src="https://steamuserimages-a.akamaihd.net/ugc/1796366854777333576/78AFA7C1F21C
 </td>
   </tr>
 <table>
-  <tr>
-    <td><a href="https://www.python.org/"><img align="left" alt="Python" width="50px" src="https://www.svgrepo.com/show/452091/python.svg" style="padding-right:10px;" /></a></td>
-    <td><a href="https://fastapi.tiangolo.com/"><img align="left" alt="FastAPI" width="50px" src="https://cdn.worldvectorlogo.com/logos/fastapi.svg" style="padding-right:10px;" /></a></td>
-    <td><a href="https://www.linux.org/"><img align="left" alt="Linux" width="50px" src="https://www.svgrepo.com/show/448236/linux.svg" style="padding-right:10px;" /></a></td>
-    <td><a href="https://www.postgresql.org/"><img align="left" alt="SQL" width="50px" src="https://www.svgrepo.com/show/354200/postgresql.svg" style="padding-right:10px;" /></a></td>
-    <td><a href="https://git-scm.com/"><img align="left" alt="Git" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" /></a></td>
-  </tr>
-  <tr>
-    <td><a href="https://aws.amazon.com/"><img align="left" alt="AWS" width="50px" src="https://www.svgrepo.com/show/448266/aws.svg" style="padding-right:10px;" /></a></td>
-    <td><a href="https://www.docker.com/"><img align="left" alt="Docker" width="50px" src="https://www.svgrepo.com/show/303231/docker-logo.svg" style="padding-right:10px;" /></a></td>
-    <td><a href="https://kubernetes.io/"><img align="left" alt="Kubernetes" width="50px" src="https://www.svgrepo.com/show/448233/kubernetes.svg" style="padding-right:10px;" /></a></td>
-    <td><a href="https://www.terraform.io/"><img align="left" alt="Terraform" width="50px" src="https://www.svgrepo.com/show/354447/terraform-icon.svg" style="padding-right:10px;" /></a></td>
-    <td><a href="https://github.com/"><img align="left" alt="Github" width="50px" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" style="padding-right:10px;" /></a></td>
-  </tr>
 	<p align="left">
   <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS">
   <img src="https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
