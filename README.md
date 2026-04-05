@@ -30,9 +30,7 @@ I'm a Software Engineer focused on **DevOps**, **Cloud Infrastructure**, and **A
 🏎️ pronouns="He/Him"
 🤖 funFact="Won 2nd Place at the National Robotics Championship 2025"
 
-info="$currentJob\n$learning\n$collaboration\n$askMeAbout\n$howToReachMe\n$pronouns\n$funFact"
 
-echo -e "$info
 
 ```
   </td>
