@@ -1,19 +1,13 @@
-<h1 align="left" id="macropower-title"> 🇻🇳🇸🇬 Hi Folks! I'm David a.k.a PVHuwung</h1>
+<h1 align="left" id="macropower-title"> 🇯🇴 Hi Folks! I'm Bashar Mukaddam</h1>
 <p align="left">
-  <a href="https://www.linkedin.com/in/vn-phamviethung/">
-   <img alt="Awesome" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  <a href="https://www.linkedin.com/in/bashar-mukaddam/">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
-  <a href="https://www.cloudskillsboost.google/public_profiles/7b545e20-e4e6-42d0-99a6-1015ae0d63e8">
-   <img alt="GCP" src="https://img.shields.io/badge/Google Cloud Profile-%234285F4.svg?style=for-the-badge&color=yellow&logo=google-cloud&logoColor=white">
+  <a href="https://github.com/bashar0099">
+      <img src="https://komarev.com/ghpvc/?username=bashar0099&style=for-the-badge&color=blue" alt="page views">
   </a>
-   <a href="https://pvhuwung.com">
-   <img alt="Portfolio" src="https://img.shields.io/badge/website-purple?style=for-the-badge&logo=next.js&logoColor=white">
-  </a>
-  <a href="https://github.com/pvhuwung">
-     <img src="https://komarev.com/ghpvc/?username=pvhuwung&style=for-the-badge&color=yellow" alt="page views">
-  </a>
- <a href="https://github.com/?tab=followers">
-    <img alt="GitHub followers" src="https://img.shields.io/github/followers/pvhuwung?color=blue&logo=github&style=for-the-badge">
+  <a href="https://github.com/bashar0099?tab=followers">
+     <img alt="GitHub followers" src="https://img.shields.io/github/followers/bashar0099?color=blue&logo=github&style=for-the-badge">
   </a>
 </p>
 
@@ -23,7 +17,7 @@
     <img align="left" width="18%" src="https://media.tenor.com/vZZEPrwfe6AAAAAi/happy-amine.gif" alt="Embedded GIF">
 	
 ### Hi there! 👋
-Here are some ideas to get you started:
+I'm a Software Engineer focused on **DevOps**, **Cloud Infrastructure**, and **AI Automation**.
 
 ```bash
 #!/bin/bash
