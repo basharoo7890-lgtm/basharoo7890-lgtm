@@ -1,4 +1,4 @@
-<h1 align="left" id="macropower-title">   Hi I'm Bashar Mukaddam</h1>
+<h1 align="left" id="macropower-title">   yo I'm Bashar Mukaddam</h1>
 <p align="left">
   <a href="https://www.linkedin.com/in/bashar-mukaddam/">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
